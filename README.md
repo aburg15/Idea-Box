@@ -13,10 +13,6 @@ IdeaBox is an application that allows users to input ideas and save the ideas in
 
 - Users also have the ability to search the saved idea cards for a particular idea.
 
-## Preview:
-
-![IdeaBox-video](assets/demonstration.gif)
-
 ## Primary Technologies Used:
 
 - Javascript
